@@ -1,0 +1,21 @@
+#root {
+  min-height: 100vh;
+}
+
+.table th,
+.table td {
+  padding: 16px;
+}
+
+.card {
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.form-control {
+  padding: 10px 12px;
+}
+
+.btn-primary {
+  padding: 10px;
+}
